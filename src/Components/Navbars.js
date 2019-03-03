@@ -20,15 +20,15 @@ class Navbars extends Component {
                             <NavItem eventKey={2} href="#about"
                             > About &nbsp;&nbsp;&nbsp;&nbsp;|
                 </NavItem>
-                            <NavItem eventKey={3} href="#projects"
+                            <NavItem eventKey={3} href="#northamerica"
                             > North America &nbsp;&nbsp;&nbsp;&nbsp;|
                 </NavItem>
 
-                            <NavItem eventKey={4} href="https://drive.google.com/file/d/1kaqLZUinCB2nunpGNKG1qYYol8NPFdTV/view?usp=sharing" target="_blank"
+                            <NavItem eventKey={4} href="#southamerica" target="_blank"
                             > South America &nbsp;&nbsp;&nbsp;&nbsp;|
                 </NavItem>
 
-                            <NavItem eventKey={5} href="#connect"
+                            <NavItem eventKey={5} href="#europe"
                             > Europe &nbsp;&nbsp;&nbsp;&nbsp;
                 </NavItem>
                         </Nav>
