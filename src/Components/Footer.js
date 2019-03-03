@@ -12,7 +12,7 @@ export class Footer extends Component {
                     <a href="https://twitter.com/mmed1na" rel="noopener noreferrer" target="_blank"><img src={require("../image/twitter.png")} alt="Twitter Link" /></a>
                 </div>
                 <br />
-                <p>Made by Michelle Medina ✌🏽 </p>
+                <p>Made by Michelle Medina </p>
             </footer>
         );
     }

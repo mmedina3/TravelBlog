@@ -1,14 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+
+#APP{
+  padding: 8% 0% 0% 0%;
+}
+
+#about{
+  padding: 6% 0% 10% 0%;
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
 
 .App-header {
-  background-color: #222;
+  background-color: white;
   height: 150px;
   padding: 20px;
   color: white;
@@ -19,11 +26,66 @@
 }
 
 .App-intro {
-  font-size: large;
+  font-size: 50px;
+  color: mediumturquoise;
+  font-family: 'Shadows Into Light', cursive;
+}
+.container-color {
+  background-color: mediumturquoise;
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.profile img {
+  width: 320px;
+  height: 300px;
+  border-radius: 50%;
 }
-   
+
+.Grid {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.Bold{
+  font-family: 'Shadows Into Light', cursive;
+  color: mediumturquoise;
+}
+
+.title{
+  font-family: 'Shadows Into Light', cursive;
+  color: mediumturquoise;
+}
+
+.title2 a{
+  font-family: 'Shadows Into Light', cursive;
+  color: white !important;
+  
+}
+
+.link2 a{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: white !important;
+  
+}
+
+.title2 a:hover{
+  font-family: 'Shadows Into Light', cursive;
+  color: #708090 !important;
+  
+}
+
+.link2 a:hover{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #708090 !important;
+  
+}
+
+.title2 {
+  font-family: 'Shadows Into Light', cursive;
+
+}
+
+.subtitle{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
