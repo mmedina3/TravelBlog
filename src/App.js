@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 //import logo from './logo.svg';
 import Navbars from './Components/Navbars';
+import Footer from './Components/Footer';
 import './App.css';
 
 class App extends Component {
@@ -10,6 +11,10 @@ class App extends Component {
         <header>
         <Navbars />
         </header>
+        <body>
+          <p>Print, TEST TEST TEST</p>
+        </body>
+        <Footer />
       </div>
     );
   }
