@@ -11,7 +11,7 @@ class Navbars extends Component {
                 <Navbar fluid fixedTop collapseOnSelect>
                     <Navbar.Header>
                         <Navbar.Brand>
-                            <a className="navbars" href="/">M²</a>
+                            <a className="navbars" href="/">The Short Stop</a>
                         </Navbar.Brand>
                         <Navbar.Toggle />
                     </Navbar.Header>
@@ -28,8 +28,24 @@ class Navbars extends Component {
                             > South America &nbsp;&nbsp;&nbsp;&nbsp;|
                 </NavItem>
 
-                            <NavItem eventKey={5} href="#europe"
-                            > Europe &nbsp;&nbsp;&nbsp;&nbsp;
+                             <NavItem eventKey={5} href="#asia" target="_blank"
+                            > Asia &nbsp;&nbsp;&nbsp;&nbsp;|
+                </NavItem>
+
+                             <NavItem eventKey={6} href="#africa" target="_blank"
+                            > Africa &nbsp;&nbsp;&nbsp;&nbsp;|
+                </NavItem>
+
+                            <NavItem eventKey={7} href="#europe"
+                            > Europe &nbsp;&nbsp;&nbsp;&nbsp;|
+                </NavItem>
+
+                <NavItem eventKey={8} href="#caribbean" target="_blank"
+                            > Caribbean &nbsp;&nbsp;&nbsp;&nbsp;|
+                </NavItem>
+
+                <NavItem eventKey={9} href="#middleeast" target="_blank"
+                            > Middle East 
                 </NavItem>
                         </Nav>
                     </Navbar.Collapse>
