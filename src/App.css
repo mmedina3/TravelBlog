@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
 
 #APP{
   padding: 8% 0% 0% 0%;
@@ -27,8 +28,8 @@
 
 .App-intro {
   font-size: 50px;
-  color: mediumturquoise;
-  font-family: 'Shadows Into Light', cursive;
+  color: #7094db;
+  font-family: 'Fredericka the Great', cursive;
 }
 .container-color {
   background-color: mediumturquoise;
@@ -48,16 +49,16 @@
 
 .Bold{
   font-family: 'Shadows Into Light', cursive;
-  color: mediumturquoise;
+  color: #7094db;
 }
 
 .title{
   font-family: 'Shadows Into Light', cursive;
-  color: mediumturquoise;
+  color: #7094db;
 }
 
 .title2 a{
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Fredericka the Great', cursive;
   color: white !important;
   
 }
@@ -81,7 +82,8 @@
 }
 
 .title2 {
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 90px;
 
 }
 

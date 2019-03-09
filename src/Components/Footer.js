@@ -5,7 +5,7 @@ export class Footer extends Component {
     render() {
         return (
             <footer id='connect'>
-                <h1><a href="mailto:medina.m1016@gmail.com" target="_top"><b>Let's Connect!</b></a></h1><br />
+                <h2><a href="mailto:medina.m1016@gmail.com" target="_top"><b>Let's Connect!</b></a></h2><br />
                 <div id="footer-links">
                     <a href="https://github.com/mmedina3" rel="noopener noreferrer" target="_blank"><img src={require("../image/github.png")} alt="Github Link" /></a>
                     <a href="https://www.instagram.com/mmedina3/" rel="noopener noreferrer" target="_blank"><img src={require("../image/insta.png")} alt="Instagram Link" /></a>

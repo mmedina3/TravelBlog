@@ -8,8 +8,8 @@
     align-items: center;
     /* border: 3px solid purple; */
     margin-bottom: 3%;
-    font-family: 'Shadows Into Light', cursive;
-    color: mediumturquoise;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #7094db;
     font-size: 20px;
 }
 
@@ -26,10 +26,10 @@
     border-radius: 50%;
 }
 
-#connect > h1 > a:link {
-    color: mediumturquoise;
+#connect > h2 > a:link {
+    color: #7094db;
 }
 
-#connect > h1 > a:hover {
+#connect > h2 > a:hover {
     color:#708090;
 }
